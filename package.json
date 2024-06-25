@@ -1,0 +1,16 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "youtube-backend-with-node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "ahsan hafeez",
+  "license": "ISC"
+}
